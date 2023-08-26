@@ -7,8 +7,8 @@
 
 class EmptyGarden
 {
-    private $width;
-    private $height;
+    protected $width;
+    protected $height;
 
     public function __construct($width, $height)
     {
