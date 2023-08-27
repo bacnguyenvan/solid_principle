@@ -1,4 +1,8 @@
 <?php
+/*
+    - Open for extension but closed for modification.
+*/
+
 include_once('../single_responsibility_principle/index.php');
 
 class MarijuanaGarden extends EmptyGarden
